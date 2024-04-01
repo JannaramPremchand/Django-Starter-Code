@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.html": "html-hubl",
+        "*.css": "css-hubl"
+    }
+}
